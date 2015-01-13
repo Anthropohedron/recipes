@@ -1,8 +1,6 @@
 Ingredients
 ===========
 
----------
-
 * 4 14.5oz cans diced tomatoes
 * 1 can kidney bean
 * lots of chili powder
