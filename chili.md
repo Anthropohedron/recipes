@@ -1,7 +1,6 @@
 Ingredients
 ===========
 
-Add first
 ---------
 
 * 4 14.5oz cans diced tomatoes
@@ -10,8 +9,7 @@ Add first
 * lots of cumin
 * 1.5 Tbs minced garlic (about 5 cloves)
 
-Add second
-----------
+---------
 
 * 4 pounds of Italian sausage (combine hot and sweet to taste)
 * 1/2 Tbs cinnamon
@@ -19,7 +17,6 @@ Add second
 * 1/2 C dry red wine
 * 1/4 C red wine vinegar
 
-Add third
 ---------
 
 * 1 onion (yellow suggested)
