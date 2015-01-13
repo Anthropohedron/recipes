@@ -6,13 +6,13 @@ Ingredients
 * lots of chili powder
 * lots of cumin
 * 1.5 Tbs minced garlic (about 5 cloves)
-### ###
+
 * 4 pounds of Italian sausage (combine hot and sweet to taste)
 * 1/2 Tbs cinnamon
 * 1/2 tsp cayenne pepper
 * 1/2 C dry red wine
 * 1/4 C red wine vinegar
-### ###
+
 * 1 onion (yellow suggested)
 * 1 bell pepper (red suggested)
 * 1 can chick peas
