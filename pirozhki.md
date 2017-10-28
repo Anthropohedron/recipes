@@ -46,3 +46,5 @@ Directions
    425F for 15 minutes. Lower the oven temperature to 400F and bake until
    brown, about 20 minutes longer.
 
+These are a great accompaniment to [borscht](borscht.md).
+
